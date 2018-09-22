@@ -1,18 +1,5 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<bajake>
+<g1 downloadnow="http://www.bajakestudios.com/bajake/Drone3.jpg" downloadnow_goto="https://play.google.com/store/apps/details?id=com.funfree2dgames.dronetaxi"/>
+<g2 downloadnow="http://www.bajakestudios.com/bajake/Ship3.jpg" downloadnow_goto="https://play.google.com/store/apps/details?id=com.alp.shipgamessimulator"/>
+<g3 downloadnow="http://www.bajakestudios.com/bajake/Train3.jpg" downloadnow_goto="https://play.google.com/store/apps/details?id=com.alp.traingamesfreesimulator"/>
+</bajake>
